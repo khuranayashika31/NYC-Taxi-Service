@@ -2,6 +2,8 @@
 The bustling streets of New York City, with its iconic skyline and vibrant energy, serve as the backdrop to millions of daily commutes. 
 Within this urban tapestry, the yellow taxi fleet emerges as a vital component of the city's transportation system, weaving through the patterns of demand and supply. 
 In this project, we explore NYC Yellow Taxi services in terms of connectivity, fares etc. by building an ETL pipeline & therefore, a dashboard using Google Cloud services, Mage-ai and Looker Studio. 
+
+
 <img width="447" alt="Screenshot 2023-12-28 at 6 23 50 PM" src="https://github.com/khuranayashika31/NYC-Taxi-Service/assets/51834607/e621f933-07ad-40a4-abc3-4b5132aad069">
 
 
